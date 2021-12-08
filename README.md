@@ -6,7 +6,7 @@
 
 ## About me!
 
-* Microsoft Azure blogger - viewed over 275,000 - check it out! <a href="https://thomasthornton.cloud/">thomasthornton.cloud</a>
+* Microsoft Azure blogger - viewed over 300,000 - check it out! <a href="https://thomasthornton.cloud/">thomasthornton.cloud</a>
 * <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004187?fullName=Thomas%20Thornton">Microsoft MVP</a>
 * <a href="https://www.credly.com/badges/d7c87a39-96ee-4c21-a55d-e99065fbb83d">Microsoft MCT</a>
 
