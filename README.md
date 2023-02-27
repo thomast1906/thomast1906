@@ -14,7 +14,7 @@
 
 ![Thomas' Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomast1906&layout=compact&theme=radical)
 
-[![Thomas' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thomast1906&theme=github-compact)](https://github.com/thomast1906/github-readme-activity-graph)
+[![Thomas' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thomast1906&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Other Content
 * <a href="https://thomasthornton.cloud/blog-features/">Blog Features</a>
