@@ -12,6 +12,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/?username=thomast1906&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
+![Thomas' Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomast1906&layout=compact&theme=radical)
+
+[![Thomas' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thomast1906&theme=github-compact)](https://github.com/thomast1906/github-readme-activity-graph)
+
 ## Other Content
 * <a href="https://thomasthornton.cloud/blog-features/">Blog Features</a>
 * <a href="https://thomasthornton.cloud/speaking-events/">Speaking and Events</a>
