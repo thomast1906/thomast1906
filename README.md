@@ -8,7 +8,8 @@
 
 * Microsoft Azure blogger -  1 MILLION+ blog views! 🚀  - check it out! <a href="https://thomasthornton.cloud/">thomasthornton.cloud</a>
 * <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004187?fullName=Thomas%20Thornton">Microsoft MVP</a>
-* <a href="https://www.credly.com/badges/d7c87a39-96ee-4c21-a55d-e99065fbb83d">Microsoft MCT</a>
+* <a href="https://stars.github.com/profiles/thomast1906">GitHub Star</a>
+* <a href="https://www.credly.com/badges/e5631c9f-5739-4bd1-86cc-913b929d34d9/linked_in_profile">HashiCorp 2024 Ambassador</a>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=thomast1906&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
