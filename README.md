@@ -18,7 +18,7 @@ I'm a Microsoft Azure blogger with over 1 million blog views, a Microsoft MVP, a
 | --- | --- |
 | ![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api/?username=thomast1906&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000) | ![Thomas' Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomast1906&layout=compact&theme=radical) |
 
-[![Thomas' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thomast1906&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Thomas' github activity graph]([https://github-readme-activity-graph.cyclic.app/graph?username=thomast1906&theme=github-compact](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true))](https://github.com/thomast1906/github-readme-activity-graph)
 
 ## 📚 Other Content
 
