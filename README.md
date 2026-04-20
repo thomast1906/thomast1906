@@ -105,11 +105,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Real Value of GitHub Copilot Rubber Duck](https://thomasthornton.cloud/the-real-value-of-github-copilot-rubber-duck/)
+- [What Makes a Good GitHub Copilot Agent Skill?](https://thomasthornton.cloud/what-makes-a-good-github-copilot-agent-skill/)
 - [Packaging GitHub Copilot Agents and Skills with Agent Package Manager](https://thomasthornton.cloud/packaging-github-copilot-agents-and-skills-with-agent-package-manager/)
 - [Creating Diagrams with an Excalidraw Agent Skill and Excalidraw MCP](https://thomasthornton.cloud/creating-diagrams-with-an-excalidraw-agent-skill-and-excalidraw-mcp/)
 - [Azure Pricing Skill for GitHub Copilot Using Azure MCP](https://thomasthornton.cloud/azure-pricing-skill-for-github-copilot-using-azure-mcp/)
-- [AWS Diagram Agent Skill with Draw.io MCP](https://thomasthornton.cloud/aws-diagram-agent-skill-with-draw-io-mcp/)
-- [Automating Terraform provider upgrades with GitHub Agentic Workflows](https://thomasthornton.cloud/automating-terraform-provider-upgrades-with-github-agentic-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
