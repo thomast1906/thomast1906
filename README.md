@@ -105,11 +105,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Module Design Is the Hard Part – So I Built an Agent Skill for It](https://thomasthornton.cloud/terraform-module-design-is-the-hard-part-so-i-built-an-agent-skill-for-it/)
 - [The Real Value of GitHub Copilot Rubber Duck](https://thomasthornton.cloud/the-real-value-of-github-copilot-rubber-duck/)
 - [What Makes a Good GitHub Copilot Agent Skill?](https://thomasthornton.cloud/what-makes-a-good-github-copilot-agent-skill/)
 - [Packaging GitHub Copilot Agents and Skills with Agent Package Manager](https://thomasthornton.cloud/packaging-github-copilot-agents-and-skills-with-agent-package-manager/)
 - [Creating Diagrams with an Excalidraw Agent Skill and Excalidraw MCP](https://thomasthornton.cloud/creating-diagrams-with-an-excalidraw-agent-skill-and-excalidraw-mcp/)
-- [Azure Pricing Skill for GitHub Copilot Using Azure MCP](https://thomasthornton.cloud/azure-pricing-skill-for-github-copilot-using-azure-mcp/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
