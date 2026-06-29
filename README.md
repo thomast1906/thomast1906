@@ -105,11 +105,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Engineering Needs Platform Controls](https://thomasthornton.cloud/ai-engineering-needs-platform-controls/)
 - [AI-Assisted Engineering Is Becoming a Platform Capability](https://thomasthornton.cloud/ai-assisted-engineering-is-becoming-a-platform-capability/)
 - [Adding Animated Traffic Flows to Draw.io Diagrams with GitHub Copilot Agent Skills](https://thomasthornton.cloud/adding-animated-traffic-flows-to-draw-io-diagrams-with-github-copilot-agent-skills/)
 - [Keep GitHub Copilot Agent Skills Small and Focused](https://thomasthornton.cloud/keep-github-copilot-agent-skills-small-and-focused/)
 - [Terraform Module Design Is the Hard Part – So I Built an Agent Skill for It](https://thomasthornton.cloud/terraform-module-design-is-the-hard-part-so-i-built-an-agent-skill-for-it/)
-- [The Real Value of GitHub Copilot Rubber Duck](https://thomasthornton.cloud/the-real-value-of-github-copilot-rubber-duck/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
