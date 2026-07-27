@@ -105,11 +105,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why agent skills need good descriptions](https://thomasthornton.cloud/why-agent-skills-need-good-descriptions/)
 - [HolmesGPT + Azure AI Foundry: A Quick Kubernetes Troubleshooting Demo](https://thomasthornton.cloud/holmesgpt-azure-ai-foundry-a-quick-kubernetes-troubleshooting-demo/)
 - [Securing AI skill repositories with Nvidia SkillSpector and GitHub Actions](https://thomasthornton.cloud/securing-ai-skill-repositories-with-nvidia-skillspector-and-github-actions/)
 - [AI Engineering Needs Platform Controls](https://thomasthornton.cloud/ai-engineering-needs-platform-controls/)
 - [AI-Assisted Engineering Is Becoming a Platform Capability](https://thomasthornton.cloud/ai-assisted-engineering-is-becoming-a-platform-capability/)
-- [Adding Animated Traffic Flows to Draw.io Diagrams with GitHub Copilot Agent Skills](https://thomasthornton.cloud/adding-animated-traffic-flows-to-draw-io-diagrams-with-github-copilot-agent-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
