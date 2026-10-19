@@ -105,11 +105,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Send GitHub Copilot CLI telemetry to Azure Application Insights](https://thomasthornton.cloud/send-github-copilot-cli-telemetry-to-azure-application-insights/)
 - [How to Find Azure Log Analytics Workspace Keys](https://thomasthornton.cloud/how-to-find-azure-log-analytics-workspace-keys/)
 - [Making AI reviews useful in pull requests](https://thomasthornton.cloud/making-ai-reviews-useful-in-pull-requests/)
 - [How to update a pull request comment from GitHub Actions instead of creating duplicates](https://thomasthornton.cloud/how-to-update-a-pull-request-comment-from-github-actions-instead-of-creating-duplicates/)
 - [APIM Policy Patterns for AI Governance: Part 2 – Content Safety &amp; Model Control](https://thomasthornton.cloud/apim-policy-patterns-for-ai-governance-part-2-content-safety-model-control/)
-- [APIM Policy Patterns for AI Governance: Part 1 – Rate Limits, Token Quotas &amp; Observability](https://thomasthornton.cloud/apim-policy-patterns-for-ai-governance-part-1-rate-limits-token-quotas-observability/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
