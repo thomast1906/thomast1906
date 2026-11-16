@@ -105,11 +105,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running GitHub Copilot, Claude Code and Codex in VS Code dev containers](https://thomasthornton.cloud/github-copilot-claude-code-codex-vscode-dev-containers/)
 - [GitHub Copilot Fusion: choosing effort instead of models](https://thomasthornton.cloud/github-copilot-fusion-choosing-effort-instead-of-models/)
 - [Manage skills and plugins across Claude Code, Codex and GitHub Copilot with APM](https://thomasthornton.cloud/manage-skills-and-plugins-across-claude-code-codex-and-github-copilot-with-apm/)
 - [Send GitHub Copilot CLI telemetry to Azure Application Insights](https://thomasthornton.cloud/send-github-copilot-cli-telemetry-to-azure-application-insights/)
 - [How to Find Azure Log Analytics Workspace Keys](https://thomasthornton.cloud/how-to-find-azure-log-analytics-workspace-keys/)
-- [Making AI reviews useful in pull requests](https://thomasthornton.cloud/making-ai-reviews-useful-in-pull-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
